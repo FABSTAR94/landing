@@ -1,0 +1,27 @@
+/* Custom Design */
+#banner {
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#banner h1 {
+  color: white;
+  margin: 0;
+}
+
+#banner p {
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0;
+  color: #f7978f;
+  text-shadow: 0px 0px 19px black;
+}
+
+#banner .cta {
+  margin-top: 20px;
+}
+

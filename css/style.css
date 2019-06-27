@@ -1,0 +1,42 @@
+/* Fonts & colors only */
+@import url(footer.css);
+@import url(banner.css);
+@import url(card.css);
+
+body {
+  text-align:center;
+  color: #f7978f ;
+  font-size: 25px;
+  font-family: 'Bad Script', cursive;
+  margin: 0;
+}
+  h1 {
+  font-family: 'Kalam', cursive;
+  color: black;
+  font-size: 65px;
+
+}
+ h2 {
+  font-family: 'Kalam', cursive;
+  color: gray;
+  font-size: 25px;
+}
+a {
+  color: rgb(87,87,87);
+  font-family: 'Kalam', cursive;
+  font-size: 20px;
+}
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+.container {
+  margin: 50px auto;
+}
+
+
